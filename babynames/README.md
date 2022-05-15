@@ -69,7 +69,6 @@ def write_to_file(name_dict):
 if __name__ == '__main__':
     list_of_files = os.listdir()
     try:
-
         for file in list_of_files:
             data = refine_soup_object(get_soup_object(file))
             baby_names = structure_data(data)
