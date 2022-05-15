@@ -1,17 +1,16 @@
 # Baby Names
 
+This directory contains my authentic solution to the Baby Names Exercise. Nick Parlante's sample solution can be found [here](https://github.com/seraph776/GooglePythonClass/tree/main/solutions/babynames).
+
+
+
 ## Instructions
 
-
-
-
-This directory contains several `.html` files which contain popular boy and girl names by year.
-The file `babynames.py` uses `os` and `BeautifulSoup` module to loop through each `.html` file in the directory, 
-extracting the `rank`, `boy name`, and `girl name` of each file, and then saves the data as a `.txt` file in the 
-`data_dump` directory with same file name as the respective `.html` file.
+This directory contains several `.html` files which contain popular boy and girl names by year. Loop through each `.html`
+file  in the directory and extract the `rank`, `boy name`, and `girl name` from every row in each file, 
+and save the data in a `.txt` file in the `data_dump` directory with same file name as the respective `.html` file. 
 
 For example, data extracted from `baby1990.html` will be saved in a file named `baby1990.txt` - so on and so forth.
-
 
 ```python
 import os
