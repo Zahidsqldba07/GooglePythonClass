@@ -1,6 +1,6 @@
 # Basic Python Exercises
 
-This directory contains authentic solutions to the Basic Python Exercises. Nick Parlante's sample solutions can be found [here](https://github.com/seraph776/GooglePythonClass/tree/main/solutions/basics).
+This directory contains my authentic solutions to the Basic Python Exercises. Nick Parlante's sample solutions can be found [here](https://github.com/seraph776/GooglePythonClass/tree/main/solutions/basics).
 
 
 
