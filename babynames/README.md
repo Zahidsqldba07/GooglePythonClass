@@ -9,7 +9,7 @@ This directory contains my authentic solution to the Baby Names Exercise. Nick P
 This directory contains several `.html` files which contain popular boy and girl names by year. Loop through each `.html`
 file  in the directory and extract the `rank`, `boy name`, and `girl name` from every row in each file, 
 and save the data in a `.txt` file in the `data_dump` directory with same file name as the respective `.html` file.  
-For example, the data extracted from `baby1990.html` will be saved in a file named `baby1990.txt` - so on and so forth.
+For example, the data extracted from `baby1990.html` will be saved in a `.txt` file named `baby1990.txt` - so on and so forth.
 
 ```python
 import os
@@ -80,5 +80,5 @@ if __name__ == '__main__':
 
 ### 🪳 Bugs
 
-- The `try and except` block is used to suppress a `IndexError - list index out of range` Traceback that returns while processing the last `.html` file in the directory - `babynames_2006.html`. 
+- The `try and except` block is used to suppress an `IndexError` that returns while processing the last `.html` file in the directory - `babynames_2006.html`. 
 - Currently, `babynames.py` will not process the last file in the directory.  
