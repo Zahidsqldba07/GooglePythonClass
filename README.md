@@ -49,14 +49,14 @@ have been refactored to support `Python 3.0+`.
 _Google's Python Class_ Copyright 2010 was developed by [Nick Parlante](https://cs.stanford.edu/people/nick/)
 at Google Inc, and Licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
 
-* _My solutions are opensource_.
+* _My code contribution is opensource and licensed under the [MIT license](https://github.com/seraph776/GooglePythonClass/blob/main/LICENSE)_.
 
 
 ## 📫 Contact
 
 If you have any questions or wish to collaborate please contact me
 
-- Seraph : seraph776@gmail.com
+- **Seraph** : seraph776@gmail.com
 
 
 
