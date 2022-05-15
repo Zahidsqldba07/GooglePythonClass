@@ -37,6 +37,12 @@ a free class created by [Nick Parlante](https://cs.stanford.edu/people/nick/). T
 - [Log PPuzzle Exercises](https://github.com/seraph776/GooglePythonClass/tree/main/logpuzzle) 
 
 
+### ⚠️ Attention
+
+The 21.4% of `DIGITAL Command Language` comes from the required `animal_code.google.com` and `place_code.google.com` files located in the `logpuzzle` directory.
+
+
+
 ## ⚙️Sample Solutions
 
 Nick Perlente's original sample solutions can be found in the [solutions](https://github.com/seraph776/GooglePythonClass/tree/main/solutions) directory. However, these solutions 
