@@ -10,6 +10,7 @@
 ![GitHub](https://img.shields.io/github/license/seraph776/GooglePythonClass?style=for-the-badge)
   
  
+<img src="https://user-images.githubusercontent.com/72005563/168495123-c2e0038e-ff6d-49ae-8d89-0c7f2848235f.png" width=175px/>
 
   
 ### Code Solutions
